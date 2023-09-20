@@ -1,0 +1,8 @@
+This is a chrome extension that stores the links which you want to use again & again
+Steps for use it :
+1. Install the folder from my repository
+2. Open chrome and search "chrome://extensions"
+3. On the Developer mode (at the top-right)
+4. Go to Load Unpacked (at top-left)
+5. Than upload my folder 
+6. Save it and use it::
